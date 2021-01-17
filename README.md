@@ -3,4 +3,4 @@
 <code>使用 HTML、CSS 編寫
 
 - - -
-![](/https://luke-shih.github.io/Sign-up/Sign-up.png "This is a sample image.")
+![](/Sign-up/Sign-up.png "This is a sample image.")

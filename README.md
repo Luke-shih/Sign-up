@@ -3,4 +3,4 @@
 <code>使用 HTML、CSS 編寫
 
 - - -
-![This is a alt text.](/image/Sing-in.png "This is a sample image.")
+![](/https://imgur.com/H43BIJT "This is a sample image.")
